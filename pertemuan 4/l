@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Latihan Web Desing</title>
+    </head>
+    <body>
+      
+        <h1><u>Exercise 2</u></h1><hr>
+        <p>Nama : Tendean, Valerian Kyle<br/>
+           Jurusan : <b>Sistem Informasi</b><br/>
+           Kelas   : <i>Web Desing</i>
+        </p>
+        <p><a href="http://www.unklab.ac.id/" target="blank">
+            Mahasiswa Unklab</a> </p>
+        <p>Makanan & Buah Faforit</p>
+        <ol>
+            <li>Ayam Goreng1</li>
+            <li>Roti Bakar</li>
+        </ol>
+        <ol type="a">
+            <li>durian</li>
+            <li>duku</li>
+            <li>pepaya</li>
+            <li>pisang</li>
+        </ol>
+        <p>Hobi</p>
+        <ul type="square">
+            <li>Olaraga</li>
+            <li>Nonton</li>
+            <li>Baca</li>
+        </ul>
+
+    </body>
+</html>
